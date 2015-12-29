@@ -8,6 +8,10 @@
 2. 作为一个软件工程的学生，觉得Github在同学中普及得不够，也想借这个想法，推广下Git以及github。又正巧GitHub提供了一个天然的平台可以供大家分享自己的导师信息，自然我一个人是没法全面具体客观公正的了解每一个老师的。借由开源的精神，大家集思广益，便能造福学弟学妹何止一届。
 3. 这个项目暂且只会关注在计院，不过也欢迎别的学院的同学fork。
 
+## 已经搜集的名单
+
+[传送门][2]
+
 ## 如何参与进来
 
 向我们提交Pull Request（推荐），或者提交Issues
@@ -30,3 +34,4 @@
 
 
 [1]: https://github.com/xuzhenglun/TutorWiki/wiki
+[2]: https://github.com/xuzhenglun/TutorWiki/wiki/%E5%90%8D%E5%8D%95
