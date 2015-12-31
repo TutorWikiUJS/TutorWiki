@@ -1,5 +1,5 @@
 # 刘志峰
-
+> ![](https://github.com/TutorWikiUJS/TutorWiki/blob/master/imgs/lzf.jpg)
 ---
 
 - 职务：不大清楚，软件系统研究所，和周从华，施化吉等老师合开的软件公司，现在在帮周从华打理公司事务
