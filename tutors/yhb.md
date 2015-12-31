@@ -1,5 +1,5 @@
 # 杨鹤标
-![](https://github.com/TutorWikiUJS/TutorWiki/blob/master/imgs/yhb.jpg)
+> ![](https://github.com/TutorWikiUJS/TutorWiki/blob/master/imgs/yhb.jpg)
 ---
 - 职务：软件工程系系主任
 - 研究课题： 
