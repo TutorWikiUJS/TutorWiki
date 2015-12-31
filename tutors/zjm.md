@@ -1,4 +1,5 @@
 #张健明
+> ![](https://github.com/TutorWikiUJS/TutorWiki/blob/master/imgs/zjm.jpg)
 ---
 
 - 职务：计算机学院副院长
