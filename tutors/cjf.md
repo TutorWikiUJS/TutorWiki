@@ -1,5 +1,5 @@
 # 陈锦富
-
+> ![](https://github.com/TutorWikiUJS/TutorWiki/blob/master/imgs/cjf.jpg)
 ------
 - 职务：软件工程系副系主任
 - 研究课题： 软件测试，自适应随机测试（adaptive random testing）
