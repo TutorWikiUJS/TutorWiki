@@ -14,7 +14,7 @@
 
 ## 如何参与进来
 
-向我们提交Pull Request（推荐），或者提交Issues
+向我们提交Pull Request（推荐），或者提交Issues,或者是家发送Email到TutorWiki@reficul.xyz
 
 新手可以点击传送门->**[Wiki][1]**
 
