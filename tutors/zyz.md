@@ -1,4 +1,5 @@
 #詹永照
+> ![](https://github.com/TutorWikiUJS/TutorWiki/blob/master/imgs/zyz.jpg)
 ---
 
 - 职务：计算机学院院长
