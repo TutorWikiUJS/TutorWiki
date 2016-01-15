@@ -5,7 +5,7 @@
 - General 
 
   > - Very nice person, and not strict 
-  > - Generally holding a post Durby University in England and little time in UJS
+  > - Generally holding a post Derby University in England and little time in UJS
   > - 3 or 4 times meeting per year
   > - Wide resource to public papers 
   > - Good choice
