@@ -1,5 +1,5 @@
 #陈健美（教授）
-> ![](https://github.com/TutorWikiUJS/TutorWiki/blob/master/imgs/lzf.jpg)
+> ![](https://github.com/TutorWikiUJS/TutorWiki/blob/master/imgs/cjm.jpg)
 ---
 
 - 导师职务：江苏大学计算中心副主任（副处级）、镇江市政协委员
