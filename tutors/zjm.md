@@ -1,4 +1,4 @@
-#张健明
+#张建明
 > ![](https://github.com/TutorWikiUJS/TutorWiki/blob/master/imgs/zjm.jpg)
 ---
 
