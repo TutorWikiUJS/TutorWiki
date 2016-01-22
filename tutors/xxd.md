@@ -1,5 +1,5 @@
 # 许晓东
-> ![](https://github.com/TutorWikiUJS/TutorWiki/blob/master/imgs/xxd.jpg)
+> ![](https://github.com/TutorWikiUJS/TutorWiki/blob/master/imgs/xxd.png)
 ---
 
 - 职务：信息化中心主任、江苏网管会委员
