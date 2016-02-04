@@ -19,9 +19,12 @@
 
 ## 如何参与进来
 
-向我们提交Pull Request（推荐），或者提交Issues,或者是发送Email到TutorWiki@reficul.xyz
+1. 你可以**[点击此处快速提交][3]**
+2. 或者向我们提交Pull Request（推荐）
+3. 或者提交Issues
+4. 或者是发送Email到TutorWiki@reficul.xyz
 
-新手可以点击传送门->**[Wiki][1]**
+此外新手可以点击传送门->**[Wiki][1]**
 
 ##注意
 
@@ -40,3 +43,4 @@
 
 [1]: https://github.com/xuzhenglun/TutorWiki/wiki
 [2]: https://github.com/xuzhenglun/TutorWiki/wiki/%E5%90%8D%E5%8D%95
+[3]: http://reficul.xyz:8080
